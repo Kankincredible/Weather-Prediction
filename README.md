@@ -1,7 +1,7 @@
 # Weather-Prediction
 
 
-> This repository contains code for predicting sub-seasonal temperatures (temperatures over a two-week period) using machine learning algorithms. The project aims to predict weather patterns for different US locations, for a number of start dates for the two-week observation, as well as the forecasted temperature and precipitation from a number of weather forecast models. 
+> This repository contains dataset and code for predicting sub-seasonal temperatures (temperatures over a two-week period) using machine learning algorithms. The project aims to predict weather patterns for different US locations, for a number of start dates for the two-week observation, as well as the forecasted temperature and precipitation from a number of weather forecast models. 
 
 > Orginal data comes from [WiDS Datathon 2023](https://www.kaggle.com/competitions/widsdatathon2023)
 
@@ -15,8 +15,6 @@ The datasets included in this repository are:
 To use this code, follow these steps:
 
 Clone the repository to your local machine.
-
-Install the required Python packages listed in `requirements.txt` by running `pip install -r requirements.txt` in your terminal.
 
 
 For more details on the implementation and methodology used in this project, please refer to the code comments and documentation.
